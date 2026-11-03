@@ -157,7 +157,7 @@ global {
 
 # Nodes defined here will be merged as a part of the global node pool.
 node {
-	usa: 'vless://'
+	aliyun: 'vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ0dXl1bi12ZTN0anR4MSIsCiAgImFkZCI6ICI2NC44My4xMi4yOSIsCiAgInBvcnQiOiA1NTA4LAogICJpZCI6ICI1MzFiZTgyMy1kNDcxLTQxMjEtODNhMS01OWJlNmE2ZWRkMDUiLAogICJzY3kiOiAiYXV0byIsCiAgIm5ldCI6ICJ0Y3AiLAogICJ0bHMiOiAibm9uZSIsCiAgInR5cGUiOiAibm9uZSIKfQ=='
     # Support socks5, http, https, ss, ssr, vmess, vless, trojan, tuic, juicity, hysteria2, etc.
     # Full support list: https://github.com/daeuniverse/dae/blob/main/docs/en/proxy-protocols.md
 }
